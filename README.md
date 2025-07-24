@@ -28,4 +28,4 @@ NOTE: Project is unter ongoing development :-) Feel free to push your ideas
 ### Build
 
 ```bash
-gcc -o pantrix pantrix.c
+gcc -o pantrix main.c
