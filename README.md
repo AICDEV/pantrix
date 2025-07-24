@@ -16,6 +16,8 @@ NOTE: Project is unter ongoing development :-) Feel free to push your ideas
 - Low-level terminal handling with raw mode and escape sequences
 
 ---
+![Pantrix Demo](pantrix.png)
+---
 
 ## 🔧 Installation & Running
 
